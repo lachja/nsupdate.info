@@ -1,5 +1,5 @@
 MAINTAINER=lachmuth
-TAG=nsupdate-info
+TAG=nsupdate.info
 VER=$(shell git describe)
 UWSGI_UID=700
 UWSGI_GID=700
